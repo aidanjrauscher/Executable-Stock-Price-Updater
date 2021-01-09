@@ -8,4 +8,4 @@ The stock information is collected using the 'yfinance' library.
 
 This was my attempt to self-learn the tkinter library to enable me to build basic GUIs in Python. 
 
-AIDAN RAUSCHER 2020
+_**Built by Aidan Rauscher**_ <h6>
